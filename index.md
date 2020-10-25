@@ -38,7 +38,7 @@ p {
 }
 #map {
   position: absolute;
-  top: 200px;
+  top: 400px;
   bottom: 0;
   width: 100%;
 }
