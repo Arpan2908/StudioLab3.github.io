@@ -33,6 +33,7 @@ p {
   right: 0;
   background: rgba(255, 255, 255, 0.8);
   font-family: Arial, sans-serif;
+  width: 100%;
   overlay: auto;
   border-radius: 3px;
 }
@@ -44,7 +45,7 @@ p {
   margin: 0;
 }
 #features {
-  top: 275px;
+  top: 250px;
   height: 100px;
   margin-top: 20px;
   width: 250px;
