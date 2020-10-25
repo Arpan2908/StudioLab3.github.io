@@ -40,7 +40,7 @@ p {
   position: absolute;
   top: 250px;
   bottom: 0;
-  width: 100%;
+  width: 80%;
   margin: 0;
 }
 #features {
