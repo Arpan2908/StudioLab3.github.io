@@ -44,7 +44,7 @@ p {
   margin: 0;
 }
 #features {
-  top: 250px;
+  top: 200px;
   height: 100px;
   margin-top: 20px;
   width: 250px;
@@ -53,7 +53,7 @@ p {
   padding: 10px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
-  height: 150px;
+  height: 250px;
   margin-bottom: 40px;
   width: 100px;
 }
