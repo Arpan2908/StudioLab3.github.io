@@ -37,10 +37,10 @@ p {
 }
 #map {
   position: absolute;
-  top: 200px;
+  top: 250px;
   bottom: 0;
   width: 100%;
-  margin-left: 0;
+  margin: 0;
 }
 #features {
   top: 200px;
