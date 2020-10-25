@@ -44,7 +44,7 @@ p {
   margin: 0;
 }
 #features {
-  top: 200px;
+  top: 275px;
   height: 100px;
   margin-top: 20px;
   width: 250px;
