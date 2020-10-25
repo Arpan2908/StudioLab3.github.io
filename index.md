@@ -46,7 +46,7 @@ p {
 #features {
   top: 250px;
   height: 100px;
-  margin-top: 20px;
+  margin-top: 0;
   width: 250px;
 }
 #legend {
