@@ -33,7 +33,7 @@ p {
   right: 0;
   background: rgba(255, 255, 255, 0.8);
   font-family: Arial, sans-serif;
-  height: 300px;
+  height: 400px;
   overlay: scroll;
   border-radius: 3px;
 }
