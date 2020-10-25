@@ -55,7 +55,6 @@ p {
   line-height: 18px;
   height: 200px;
   margin-bottom: 0;
-  right: 0;
   width: 100px;
 }
 .legend-key {
