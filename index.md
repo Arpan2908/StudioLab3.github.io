@@ -29,11 +29,11 @@ p {
 }
 .map-overlay {
   position: absolute;
-  top: 250px;
   bottom: 0;
   right: 0;
   background: rgba(255, 255, 255, 0.8);
   font-family: Arial, sans-serif;
+  overlay: scroll;
   border-radius: 3px;
 }
 #map {
