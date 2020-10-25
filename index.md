@@ -38,9 +38,10 @@ p {
 }
 #map {
   position: absolute;
-  top: 400px;
+  top: 350px;
   bottom: 0;
   width: 100%;
+  margin-left: 0;
 }
 #features {
   top: 200px;
