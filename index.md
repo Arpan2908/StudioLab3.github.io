@@ -33,7 +33,6 @@ p {
   right: 0;
   background: rgba(255, 255, 255, 0.8);
   font-family: Arial, sans-serif;
-  width: 100%;
   overlay: auto;
   border-radius: 3px;
 }
@@ -41,7 +40,7 @@ p {
   position: absolute;
   top: 250px;
   bottom: 0;
-  width: 100%;
+  width: 150%;
   margin: 0;
 }
 #features {
